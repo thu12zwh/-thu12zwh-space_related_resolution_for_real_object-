@@ -1,2 +1,1 @@
-# -thu12zwh-space_related_resolution_for_real_object-
- thu12zwh/space_related_resolution_for_real_object 
+please open and run the file named "space_related_resolution_for_real_object"
